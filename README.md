@@ -1,4 +1,5 @@
-### Hi there 👋
+👋 Hi, This is AdithiRajashri Chitta
+🌱 I’m currently pursuing Computer science and networking 
 
 <!--
 **AdithiRajashri/AdithiRajashri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
